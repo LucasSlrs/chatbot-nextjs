@@ -1,3 +1,5 @@
+## Description of the project below
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -32,3 +34,16 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Descritpion of the project
+
+This program is a chatbot made with Next.js with the goal of introduce myself.
+I'm also using the boilerplate [Next Right Now]()
+
+I'm using [react-chatbot-kit]() to help me understand how a chatbot works. Next feature
+will be doing it without npm package.
+
+For the moment, this chatbot will only be Front end. That means if you refresh the page, the conversation will start again.
+For a next feature, I will implement a Back end part to save changes if you refresh or leave the page.
+
+[Click here to see the final result]()
